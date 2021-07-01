@@ -1,0 +1,20 @@
+const WORDS = [
+    "interimo",
+    "adapare",
+    "ameno",
+    "latire",
+    "latiremo",
+    "omenare",
+    "imperavi",
+    "dimere",
+    "matiro",
+    "matiremo",
+    "emulari",
+    "dori",
+    "me",
+    "dore",
+    "dom",
+    "reo",
+    "mea",
+    "am"
+];
