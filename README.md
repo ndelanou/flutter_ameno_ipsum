@@ -33,4 +33,8 @@ Sentences are formed from a list of words based on the lyrics of Ameno. Up to tw
 
 Words are selected randomly. The sentences are not valid latin! (just like Ameno's lyrics)
 
+## Thanks you !
+Thanks to [dmjones](https://github.com/dmjones) for his package [flutter_lorem](https://github.com/dmjones/flutter_lorem)
+
 ## Dorime
+![](img/dorime.jpg)
