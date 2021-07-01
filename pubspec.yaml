@@ -1,7 +1,7 @@
 name: flutter_ameno_ipsum
 description: Lorem Ipsum but it's Ameno from Era
-version: 0.0.1
-homepage:
+version: 1.0.0
+homepage: https://github.com/ndelanou/flutter_ameno_ipsum
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
